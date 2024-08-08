@@ -6,4 +6,3 @@ if (idadedoaluno >= idademinima){
 } else {
     console.log ("Desculpe, você ainda não pode se matricular nesta escola")
 } 
-
